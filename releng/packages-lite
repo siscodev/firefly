@@ -1,0 +1,16 @@
+base
+cloud-init
+hyperv
+linux
+linux-firmware
+mkinitcpio
+mkinitcpio-archiso
+mkinitcpio-nfs-utils
+open-vm-tools
+openssh
+pv
+qemu-guest-agent
+syslinux
+virtualbox-guest-utils
+
+

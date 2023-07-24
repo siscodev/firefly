@@ -1,0 +1,11 @@
+arch-install-scripts
+
+base
+base-devel
+
+amd-ucode
+intel-ucode
+
+linux
+linux-firmware
+linux-headers

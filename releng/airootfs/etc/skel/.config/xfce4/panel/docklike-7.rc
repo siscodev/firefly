@@ -1,0 +1,14 @@
+[user]
+forceIconSize=true
+iconSize=14
+showPreviews=true
+showWindowCount=true
+noWindowsListIfSingle=true
+indicatorStyle=0
+inactiveIndicatorStyle=0
+indicatorOrientation=1
+indicatorColor=rgba(69,116,113,0.763514)
+inactiveColor=rgba(69,116,113,0.763514)
+keyComboActive=true
+indicatorColorFromTheme=false
+pinned=/usr/share/applications/xfce4-terminal.desktop;/usr/share/applications/google-chrome.desktop;/usr/share/applications/code.desktop;

@@ -1,0 +1,20 @@
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-power-manager:621): libnotify-WARNING **: 23:44:00.721: Failed to connect to proxy
+
+** (wrapper-2.0:641): WARNING **: 23:44:01.508: No outputs have backlight property
+
+(wrapper-2.0:640): libnotify-WARNING **: 23:44:01.625: Failed to connect to proxy
+
+(wrapper-2.0:642): xfce4-notification-plugin-WARNING **: 23:44:02.655: Unable to check for unread messages: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.xfce.Notifyd was not provided by any .service files
+xfce4-notifyd-Message: 23:44:02.994: Your sqlite library does not support OFFSET/LIMIT with DELETE; falling back to less-efficient deletion method
+
+(xfce4-power-manager:621): xfce4-power-manager-WARNING **: 23:44:03.565: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:621): WARNING **: 23:44:03.599: No outputs have backlight property
+xfce4-power-manager-Message: 23:44:03.750: Set kernel brightness switch to 0
+
+(xfce4-power-manager:621): xfconf-WARNING **: 23:44:03.842: Failed to set property "xfce4-power-manager::/xfce4-power-manager/brightness-switch": Operation was cancelled
+xfce4-power-manager-Message: 23:44:03.878: Set kernel brightness switch to 0

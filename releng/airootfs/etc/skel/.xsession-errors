@@ -1,0 +1,104 @@
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-power-manager:614): libnotify-WARNING **: 23:54:03.346: Failed to connect to proxy
+
+** (wrapper-2.0:621): WARNING **: 23:54:04.306: No outputs have backlight property
+
+(wrapper-2.0:620): libnotify-WARNING **: 23:54:04.458: Failed to connect to proxy
+
+(wrapper-2.0:622): xfce4-notification-plugin-WARNING **: 23:54:04.909: Unable to check for unread messages: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.xfce.Notifyd was not provided by any .service files
+xfce4-notifyd-Message: 23:54:05.076: Your sqlite library does not support OFFSET/LIMIT with DELETE; falling back to less-efficient deletion method
+
+(xfce4-power-manager:614): xfce4-power-manager-WARNING **: 23:54:07.132: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:614): WARNING **: 23:54:07.158: No outputs have backlight property
+
+(xfce4-power-manager:614): xfce4-power-manager-WARNING **: 23:54:07.167: It seems the kernel brightness switch handling value was not restored properly on exit last time, xfce4-power-manager will try to restore it this time.
+xfce4-power-manager-Message: 23:54:07.248: Set kernel brightness switch to 0
+
+(xfce4-power-manager:614): xfconf-WARNING **: 23:54:07.369: Failed to set property "xfce4-power-manager::/xfce4-power-manager/brightness-switch": Operation was cancelled
+xfce4-power-manager-Message: 23:54:07.415: Set kernel brightness switch to 0
+[1503:1503:0724/000115.724356:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.724572:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.724741:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.725022:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.724996:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.725227:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.725295:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.725423:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.725509:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.725624:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.725776:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.725859:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.725980:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.726064:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.726184:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.726268:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.726448:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.726537:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.726667:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.726761:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.726892:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.726981:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.727092:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.727172:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.727274:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.727361:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.727463:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.727543:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.727652:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.727753:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.727866:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.727945:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.728049:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.728137:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.728254:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.728328:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.728467:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.728519:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.728694:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.728726:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.728899:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.728982:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.729130:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.729216:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.729350:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.729417:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.729537:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.729603:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.729698:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.729788:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.729845:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.730014:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.730008:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.730192:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.730190:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.730376:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.730383:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.730580:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.730575:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.730767:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.730772:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.730931:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.730939:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.731105:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.731128:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.731295:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.731338:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.731483:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.731535:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.731666:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.731736:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.731842:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.731929:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.732029:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.732089:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1503:1503:0724/000115.732180:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.732245:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.732405:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.732581:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1429:1429:0724/000115.732736:ERROR:gbm_wrapper.cc(253)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1376:1376:0724/000117.086377:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.portal.Settings.Read: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.portal.Desktop was not provided by any .service files
+xfce4-panel-Message: 00:31:42.432: Plugin docklike-7 has been automatically restarted after crash.

@@ -1,0 +1,14 @@
+calamares
+
+xorg-server
+xorg-apps
+
+lightdm
+lightdm-gtk-greeter
+
+xfce4
+xfce4-goodies
+neofetch
+
+visual-studio-code-bin
+google-chrome
